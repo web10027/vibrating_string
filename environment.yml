@@ -9,5 +9,5 @@ dependencies:
   - jupyter_dashboards_bundlers
   - matplotlib
   - numpy
-  - pylib
+  - pylab
   - mpl_toolkits
